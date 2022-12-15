@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;
+    margin: 0;
+    padding: 5px;
+    align-items: center;
+    background: #aea9a9;
+}
+.nav-brand{
+    text-decoration: none;
+    white-space: nowrap;
+    color: black;
+    font-weight: 700;
+    font-size: larger;
+    margin: 0 17px;
+}
+.nav-link{
+    text-decoration: none;
+    white-space: nowrap;
+    color: black;
+}
+.navbarNav{
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.nav-item{
+    margin: 5px 13px;
+}
+.flex{
+    display: flex;
+}
